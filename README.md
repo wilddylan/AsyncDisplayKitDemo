@@ -1,6 +1,10 @@
 # AsyncDisplayKitDemo
 The Demo for AsyncDisplayKit with OC. http://asyncdisplaykit.org/
 
+#Run And Build
+
+`pod install --no-repo-update`
+
 - Preview.
 
 Like WeChat timeLine.

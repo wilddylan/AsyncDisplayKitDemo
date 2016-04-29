@@ -1,0 +1,4 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/CHTCollectionViewWaterfallLayout" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AsyncDisplayKit" "${PODS_ROOT}/Headers/Public/BFKit" "${PODS_ROOT}/Headers/Public/CHTCollectionViewWaterfallLayout" "${PODS_ROOT}/Headers/Public/PINCache" "${PODS_ROOT}/Headers/Public/PINRemoteImage" "${PODS_ROOT}/Headers/Public/Reveal-iOS-SDK"
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES
